@@ -8,6 +8,8 @@
 
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
+[![Update gist with WakaTime stats](https://github.com/hejianxian/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/hejianxian/waka-box/actions/workflows/schedule.yml)
+
 ## Setup
 
 ### Prep work
